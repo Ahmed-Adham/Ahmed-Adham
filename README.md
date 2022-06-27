@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed-Adham
-- 👀 I’m interested in BCI, Rehabilitation medicine, Astronomy, Ancient Egypt... 
+- 👀 I’m interested in BCI, Rehabilitation medicine, Astronomy, electronics, Ancient Egypt... 
 - 🌱 I’m currently learning Deep-Learning
-- 💞️ Python, MatLab
+- 💞️ Python, MatLab, VHDL
 - 📫 How to reach me : ahmed.adhamabc@gmail.com
 
 <!---
